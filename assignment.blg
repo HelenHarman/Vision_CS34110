@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: assignment.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty journal in faceRec
+Warning--empty year in faceRec
+Warning--empty journal in dalalTriggs
+Warning--empty publisher in book
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            565 strings with 6190 characters,
+and the built_in function-call counts, 3383 in all, are:
+= -- 322
+> -- 161
+< -- 1
++ -- 66
+- -- 52
+* -- 197
+:= -- 589
+add.period$ -- 41
+call.type$ -- 12
+change.case$ -- 61
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 122
+empty$ -- 268
+format.name$ -- 52
+if$ -- 702
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 9
+newline$ -- 68
+num.names$ -- 24
+pop$ -- 81
+preamble$ -- 1
+purify$ -- 50
+quote$ -- 0
+skip$ -- 93
+stack$ -- 0
+substring$ -- 138
+swap$ -- 19
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 46
+warning$ -- 4
+while$ -- 28
+width$ -- 14
+write$ -- 133
+(There were 4 warnings)
